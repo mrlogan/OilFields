@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/logan/workspace/OilFields/android/build/intermediates/pre-dexed/debug/gdx-1.4.1-dd61d79ffb0285ef3280aa6d84b925ae1ba12155.jar"
+        jar="/home/logan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.4.1/df470d263438048af74860ca51fc497c16a0c76a/gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a"/>
+    <item
+        dex="/home/logan/workspace/OilFields/android/build/intermediates/pre-dexed/debug/core-1.0-e85547691e0ba67d5e618ad243761a65d6e19e3d.jar"
+        jar="/home/logan/workspace/OilFields/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a0ef33f9e769eddb4c078961aa079b4fa01ee40d"/>
+    <item
+        dex="/home/logan/workspace/OilFields/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.4.1-349d0db0a53ecfef14b4056cfe6bf82294f1b36c.jar"
+        jar="/home/logan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.4.1/9e6453d244896698694a7f3059f15ae509044101/gdx-box2d-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9e6453d244896698694a7f3059f15ae509044101"/>
+    <item
+        dex="/home/logan/workspace/OilFields/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.4.1-cc522b6c6f28ec0b5b72fecf591c39774bd72cc7.jar"
+        jar="/home/logan/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.4.1/eca2621f18b162c03992bd3ecc226e8a477dc6f9/gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9"/>
+
+</pre-dex-items>
